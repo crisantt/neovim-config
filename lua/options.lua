@@ -13,3 +13,5 @@ opt.list = false
 
 opt.ignorecase = true
 opt.hlsearch = false 
+
+MAGAYUNON SI BETHANYYY!!
