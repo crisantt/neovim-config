@@ -14,5 +14,15 @@ opt.list = false
 opt.ignorecase = true
 opt.hlsearch = false 
 
-MAGAYUNON SI BETHANYYY!!
-POGIII SI CRIS!!!
+opt.termguicolors = true
+
+opt.clipboard:append("unnamedplus")
+
+-- Split Behavior
+opt.splitbelow = true
+opt.splitright = true
+
+vim.g.mapleader = " "
+vim.g.maplocalleader = " "
+
+
